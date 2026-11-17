@@ -41,6 +41,5 @@ The skill will not invent customers, metrics, or product behavior. A storyboard 
 ## Related tools
 
 - [Directing motion films](https://github.com/morrimoz/directing-motion-films-with-claude-design) - Move from an approved storyboard into style frames and rendered-frame reviews.
-- [Talking-head clip review](https://github.com/morrimoz/talking-head-clip-review) - Pick on-camera selects after the script exists.
 
 [MIT license](LICENSE)
